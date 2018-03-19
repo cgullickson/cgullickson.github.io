@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Rails + Javascript Portfolio Project"
+title:      "Rails + jQuery Portfolio Project"
 date:       2018-03-12 22:08:28 -0400
 permalink:  rails_javascript_portfolio_project
 ---
