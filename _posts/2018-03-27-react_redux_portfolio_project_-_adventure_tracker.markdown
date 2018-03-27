@@ -14,7 +14,7 @@ In order to satisfy the project requirements, I ensured the following:
 
 It is a single page application, created using a Rails API on the back-end for data persistence and a React/Redux front-end. It uses Redux's thunk middleware to handle asynchronous actions, and react-router to handle the routing and navigation. I also added some styling to the application using bootstrap and semantic-ui-react.
 
-The application has three container components, the Adventures.js index page, the AdventureShow.js show page, and the AdventureForm.js form page. These are considered container components because they are aware of Redux. Adventure Tracker also has a some static components that are not aware of Redux, such as the Home page, About page, Contact page, Navbar, and the Adventure Card component. 
+The application has three container components: the Adventures.js index page, the AdventureShow.js show page, and the AdventureForm.js form page. These are considered container components because they are aware of Redux. Adventure Tracker also has 5 stateless components that are not aware of Redux, including the Home page, About page, Contact page, Navbar, and the Adventure Card component. 
 
 --
 
